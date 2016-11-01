@@ -114,7 +114,7 @@ Each day I take one subject from the list below, read it cover to cover, take no
 - [X] [Machine Learning basics for a newbie](https://www.analyticsvidhya.com/blog/2015/06/machine-learning-basics/)
 
 ## Machine learning mastery
-- [ ] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
+- [X] [The Machine Learning Mastery Method](http://machinelearningmastery.com/machine-learning-mastery-method/)
 - [ ] [Machine Learning for Programmers](http://machinelearningmastery.com/machine-learning-for-programmers/)
 - [ ] [Applied Machine Learning with Machine Learning Mastery](http://machinelearningmastery.com/start-here/)
 - [ ] [Python Machine Learning Mini-Course](http://machinelearningmastery.com/python-machine-learning-mini-course/)
